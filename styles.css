@@ -1,0 +1,28 @@
+.avatar{
+    width: 120px;
+    height: 120px;
+    margin-top: 15px;
+    border-radius: 30%;
+}
+
+.card{
+    width: 380px;
+    height: 180px;
+    margin: 40px auto;
+    background:#00b4d8;
+    display: flex;
+    padding: 3%;
+    border-radius: 5%;
+    justify-content: space-around;
+    border-bottom: 25px solid #023e8a;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+.boco{
+    border: 6px solid #023e8a;
+}
+
+.order{
+    text-align: center;
+}
